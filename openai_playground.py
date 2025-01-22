@@ -42,6 +42,6 @@ class OpenAIPlayground:
 
 # Example usage
 if __name__ == "__main__":
-    api_key = "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"  # Replace with your OpenAI API key
+    api_key = ""  # Replace with your OpenAI API key
     playground = OpenAIPlayground(api_key)
 
