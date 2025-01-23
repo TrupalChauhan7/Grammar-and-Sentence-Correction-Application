@@ -64,7 +64,8 @@ Include screenshots of the application showcasing:
 1. The main interface with input/output fields.
 2. Multi-tab functionality.
 3. Settings for max tokens and temperature adjustments.
-
+   
+![Image](https://github.com/user-attachments/assets/45e0c89c-5ab4-433f-abd9-1e988a35de8c)
 ---
 
 ## Usage Notes
