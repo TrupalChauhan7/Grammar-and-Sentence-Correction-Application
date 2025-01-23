@@ -62,10 +62,12 @@ This is a Python-based application that utilizes OpenAI models to correct gramma
 ## Screenshots
 Include screenshots of the application showcasing:
 1. The main interface with input/output fields.
+   ![Image](https://github.com/user-attachments/assets/45e0c89c-5ab4-433f-abd9-1e988a35de8c)
 2. Multi-tab functionality.
+   ![Image](https://github.com/user-attachments/assets/1e3e4b79-456e-40d0-8942-3644b1fa8368)
 3. Settings for max tokens and temperature adjustments.
+ ![Image](https://github.com/user-attachments/assets/d77b21d6-7bb2-4d0c-9b58-2d07527b0450)
    
-![Image](https://github.com/user-attachments/assets/45e0c89c-5ab4-433f-abd9-1e988a35de8c)
 ---
 
 ## Usage Notes
